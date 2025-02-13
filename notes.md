@@ -16,3 +16,5 @@
 - Create the `app.js` file
 
 - Visit `http://localhost:3000/`
+
+- CRUD (Create, Read, Update, Delete)
